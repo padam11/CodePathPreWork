@@ -4,9 +4,9 @@
 
 Submitted by: **Rohan Buch**
 
-Time spent: **4** hours spent in total
+Time spent: **4** hours spent in total, https://github.com/padam11/CodePathPreWork
 
-Link to project: https://glitch.com/edit/#!/ripe-complete-roquefort
+Link to project: ripe-complete-roquefort.glitch.me
 
 ## Required Functionality
 
@@ -41,9 +41,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![] https://imgur.com/gallery/m6guDoa
+![] https://imgur.com/gallery/LxPEIiu
+![](gif3-link-here) 
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -63,7 +63,7 @@ First things first, I would continue working on randomizing the array instead of
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/KblSdJ-OlZI)
 
 
 ## License
