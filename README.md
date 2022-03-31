@@ -68,7 +68,7 @@ First things first, I would continue working on randomizing the array instead of
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Rohan Buch]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
