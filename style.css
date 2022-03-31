@@ -82,7 +82,7 @@ button {
   background-size: 200px;
 }
 
-#button5:active, #button4.lit {
+#button5:active, #button5.lit {
   background: white;
   background-image: url('https://cdn.glitch.global/84caaba4-70c6-44f8-a5c0-4a5f2cbebe94/thumbnails%2FD_Note.png?1648589490877');
   background-size: 200px;

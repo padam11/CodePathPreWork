@@ -95,18 +95,22 @@ function playClueSequence(){
     setTimeout(playSingleClue,delay,pattern[i]) // set a timeout to play that clue
     delay += clueHoldTime 
     delay += cluePauseTime;
-    clueHoldTime = clueHoldTime - 25;
+    clueHoldTime = clueHoldTime - 18;
   }
 }
 
 function loseGame(){
-  stopGame();
+  clueHoldTime = 1000;
   alert("Game Over. You lost.");
+  stopGame();
+  //alert("Game Over. You lost.");
 }
 
 function winGame() {
+  clueHoldTime = 1000;
+  alert("Game over, You won!");
   stopGame();
-  alert("Game over. You won!")
+  
 }
 
 function guess(btn){
